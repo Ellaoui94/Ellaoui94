@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img width="395" height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=ellaoui94&show_icons=true&locale=en" alt="ellaoui94" /></p>
 
-<p><img height="160"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ellaoui94&" alt="ellaoui94" /></p>
+<p><img height="210"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ellaoui94&" alt="ellaoui94" /></p>
