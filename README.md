@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ellaoui</h1>
-<h3 align="center">A passionate frontend and backend developer from Norway, I am on my last year to complete my bachelor at Kristiania University in Oslo.</h3>
+<h3 align="center">A passionate frontend and backend developer from Norway</h3>
 <img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **C# & Design Patterns in C# and .NET**
-
-- 👨‍💻 All of my projects are available at [https://ellaoui-portfolio.netlify.app/](https://ellaoui-portfolio.netlify.app/)
-
-- 💬 Ask me about **React, Android**
 
 - 📫 How to reach me **quddous.94@gmail.com**
 
